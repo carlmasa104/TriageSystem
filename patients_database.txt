@@ -1,5 +1,0 @@
-P-0101|Masa, Carl Justine|18|120/80|80|36.5|Asthma
-P-0102|Dela Cruz, Juan|54|160/95|102|38.5|Chest Pain, Dyspnea
-P-0103|Santos, Maria|29|130/80|95|39.2|High Fever, Vomiting
-P-0104|Villanueva, Carlos|45|140/90|88|37.8|Moderate Abdominal Pain
-P-0105|Ramos, Jose|42|118/75|78|36.6|Chronic Back Pain
